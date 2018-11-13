@@ -50,5 +50,5 @@ plt.scatter(X,y,alpha=0.2)
 plt.plot(Xtr, y_predicted)
 plt.xlim(0,6)
 plt.ylim(20000,110000)
-#plt.show()
+plt.show()
 
